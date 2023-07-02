@@ -17,3 +17,9 @@ To ensure a smooth evaluation process, please adhere to the following guidelines
 3. Mention Training Environment: Specify where the model has been trained. If you trained the model using Colab, Kaggle, your own CPU, or GPU, make sure to mention it. This information will help the examiner replicate your work.
 
 Please make sure to consider these instructions while developing your solution.
+
+
+# *Solution*:-
+ The InceptionV3 model has a size of 255.9 MB, which exceeds the maximum file size limit of 100 MB on GitHub. Therefore, I am unable to upload the model directly to GitHub. However, I have provided a Google Drive link below where you can access and download the model:
+
+https://drive.google.com/file/d/1-Hb_uAOsFWG3XxIZ_qHgf3AAuGEtwBtb/view?usp=drivesdk
